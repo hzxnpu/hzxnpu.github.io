@@ -1,9 +1,9 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
@@ -18,7 +18,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
@@ -30,7 +30,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
