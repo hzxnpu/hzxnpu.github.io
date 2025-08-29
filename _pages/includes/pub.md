@@ -3,7 +3,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/tmc_25_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/tmc_25_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Two Time-Scale DRL for Service Caching and Task Offloading in Cross-Domain Marine Networks](https://ieeexplore.ieee.org/abstract/document/11106467) \\
@@ -16,11 +16,11 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/tmc_25_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[Erasure Coding-Based Cost-Optimized and Latency-Aware Data Storage in UAV-Enabled Edge Systems](https://ieeexplore.ieee.org/abstract/document/11105766/) \\
+**Zhaoxiang Huang**, Zhiwen Yu, Liang Wang, Huan Zhou, Erhe Yang, Bin Guo
 
 [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
   - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
@@ -28,11 +28,11 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/iotj_25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
+[Energy-Efficient Multi-AAV Collaborative Reliable Storage: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10902582/) \\ 
+**Zhaoxiang Huang**, Zhiwen Yu, Zhijie Huang, Huan Zhou, Erhe Yang, Ziyue Yu, Jiangyan Xu, Bin Guo
 
 [**Project**](https://boostprompt.github.io/boostprompt/) 
   - This work has been deployed on many TikTok products.
