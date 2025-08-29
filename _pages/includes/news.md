@@ -1,6 +1,4 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2025.08.17*: 🎉 Our paper “Joint Semantic Extraction and Resource Optimization in Communication-Efficient UAV Crowd Sensing” has been accepted by the IEEE Transactions on Network and Service Management (TNSM).
+- *2025.07.29*: 🎉 Our two papers “Erasure Coding-Based Cost-Optimized and Latency-Aware Data Storage in UAV-Enabled Edge Systems” and “Two Time-Scale DRL for Service Caching and Task Offloading in Cross-Domain Marine Networks” have been accepted by the IEEE Transactions on Mobile Computing (TMC).
+- *2025.02.14*: 🎉 Our paper “Energy-Efficient Multi-AAV Collaborative Reliable Storage: A Deep Reinforcement Learning Approach” has been accepted by the IEEE Internet of Things Journal (IoTJ).
