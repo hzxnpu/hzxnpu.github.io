@@ -31,7 +31,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='images/iotj_25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Energy-Efficient Multi-AAV Collaborative Reliable Storage: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10902582/) \\ 
+[Energy-Efficient Multi-AAV Collaborative Reliable Storage: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10902582/) \\
 **Zhaoxiang Huang**, Zhiwen Yu, Zhijie Huang, Huan Zhou, Erhe Yang, Ziyue Yu, Jiangyan Xu, Bin Guo
 
 [**Project**](https://boostprompt.github.io/boostprompt/) 
