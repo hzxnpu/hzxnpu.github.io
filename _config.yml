@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Zhaoxiang Huang"
-description              : "Ph.D. Candidate at Northwestern Polytechnical University \newline huangzx [at] mail.nwpu.edu.cn"
+description              : "Ph.D. Candidate at Northwestern Polytechnical University 
+
+                            huangzx [at] mail.nwpu.edu.cn"
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
