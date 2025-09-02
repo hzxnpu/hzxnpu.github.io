@@ -35,7 +35,7 @@
 </div>
 </div>
 
-- `TNSM 2025` [Joint Semantic Extraction and Resource Optimization in Communication-Efficient UAV Crowd Sensing](https://ieeexplore.ieee.org/abstract/document/11142806), Erhe Yang, Zhiwen Yu, Yao Zhang, Helei Cui, **Zhaoxiang Huang**, et al. 
-- ``CyberSciTech 2024`` [Energy-Efficient Reliable Data Storage Service in Heterogeneous Crowdsensing](https://ieeexplore.ieee.org/abstract/document/10795742), **Zhaoxiang Huang**, Zhiwen Yu, Zhijie Huang, et al.
-- ``CyberSciTech 2024`` [CDPP: A Crowdsensing Task Allocation Method Based on Diverse Participant Preferences](https://ieeexplore.ieee.org/abstract/document/10795685), Jiangyan Xu, Zhiwen Yu, **Zhaoxiang Huang**, et al.
+- `TNSM 2025` [Joint Semantic Extraction and Resource Optimization in Communication-Efficient UAV Crowd Sensing](https://ieeexplore.ieee.org/abstract/document/11142806), Erhe Yang, Zhiwen Yu, Yao Zhang, Helei Cui, **Zhaoxiang Huang**, et al.
 - ``MSN 2024`` [Contrastive Learning Based Dynamic Redundancy Detection for Visual Crowdsensing Data](https://www.computer.org/csdl/proceedings-article/msn/2024/160200a972/27O9oAXIXbq), Ziyue Yu, Zhiwen Yu, **Zhaoxiang Huang**, et al.
+- ``CyberSciTech 2024`` [CDPP: A Crowdsensing Task Allocation Method Based on Diverse Participant Preferences](https://ieeexplore.ieee.org/abstract/document/10795685), Jiangyan Xu, Zhiwen Yu, **Zhaoxiang Huang**, et al.
+- ``CyberSciTech 2024`` [Energy-Efficient Reliable Data Storage Service in Heterogeneous Crowdsensing](https://ieeexplore.ieee.org/abstract/document/10795742), **Zhaoxiang Huang**, Zhiwen Yu, Zhijie Huang, et al.
