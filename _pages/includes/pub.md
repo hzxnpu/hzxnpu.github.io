@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TON 2026</div><img src='images/ton26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Joint Optimization of Caching, Migration, and Offloading in Satellite-Assisted Marine Networks](https://ieeexplore.ieee.org) \\
+[Joint Optimization of Caching, Migration, and Offloading in Satellite-Assisted Marine Networks](https://ieeexplore.ieee.org/document/11511345) \\
 **Zhaoxiang Huang**, Zhiwen Yu, Liang Wang, Huan Zhou, Bin Guo
 
 - This work investigates the joint optimization of service caching, task migration, and task offloading in satellite-assisted marine edge networks. By considering the heterogeneous satellite–USV–AUV architecture and coupled acoustic/RF links, we develop an attention-enhanced multi-agent reinforcement learning framework to improve resource utilization and service Quality of Experience under limited caching, computing, and communication resources.
