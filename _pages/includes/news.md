@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.06.07*: 🎉 Our paper “Coded Caching Enabled D2D Content Delivery in UAV-Assisted Marine Edge Networks” has been accepted by the IEEE Transactions on Mobile Computing (TMC).
 - *2026.05.03*: 🎉 Our paper “Joint Optimization of Caching, Migration, and Offloading in Satellite-Assisted Marine Networks” has been accepted by the IEEE Transactions on Networking (TON).
 - *2026.01.18*: 🎉 Our paper “Semantic-Aware UAV-Assisted Data Collection in WPT-Enabled Space–Air–Sea Integrated Networks” has been accepted by the 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026), May 4-8, 2026, Barcelona, Spain.
 - *2025.08.17*: 🎉 Our paper “Joint Semantic Extraction and Resource Optimization in Communication-Efficient UAV Crowd Sensing” has been accepted by the IEEE Transactions on Network and Service Management (TNSM).
