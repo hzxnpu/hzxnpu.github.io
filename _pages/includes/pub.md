@@ -1,6 +1,17 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/tmc26_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coded Caching Enabled D2D Content Delivery in UAV-Assisted Marine Edge Networks](https://ieeexplore.ieee.org/) \\
+**Zhaoxiang Huang**, Zhiwen Yu, Liang Wang, Huan Zhou, Fei Xiong, Bin Guo
+
+- This work studies coded caching-enabled D2D content delivery in UAV-assisted marine edge networks. To support low-latency content access for autonomous underwater vehicles in dynamic marine environments, we design an online optimization framework that jointly considers UAV trajectory planning, coded content caching, and content request scheduling under long-term UAV energy constraints. We propose the Online Joint Coded Caching and Content Delivery algorithm, which leverages Lyapunov optimization to transform the long-term problem into real-time per-slot decisions and solves it through a three-stage optimization process. Simulation results show that the proposed approach effectively reduces content access latency and UAV energy consumption, enabling energy-efficient and reliable content delivery in cross-domain marine networks.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TON 2026</div><img src='images/ton26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
