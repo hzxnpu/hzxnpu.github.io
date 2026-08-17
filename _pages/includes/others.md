@@ -9,3 +9,4 @@ Invited to serve as reviewer for the following journals：
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Networking (TON)
 - CCF Transactions on Pervasive Computing and Interaction (CCF TPCI)
+- IEEE Transactions on Network and Service Management (TNSM)
